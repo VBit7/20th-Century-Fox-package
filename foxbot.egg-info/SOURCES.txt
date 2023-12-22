@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+setup.py
+foxbot/__init__.py
+foxbot/classAddressBook.py
+foxbot/classMainApp.py
+foxbot/main.py
+foxbot/sorter.py
+foxbot.egg-info/PKG-INFO
+foxbot.egg-info/SOURCES.txt
+foxbot.egg-info/dependency_links.txt
+foxbot.egg-info/entry_points.txt
+foxbot.egg-info/top_level.txt
